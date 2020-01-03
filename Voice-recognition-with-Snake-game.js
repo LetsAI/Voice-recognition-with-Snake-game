@@ -34,7 +34,6 @@ function setup() {
   scoreElem.style('color', 'brown');
   
   createCanvas(800, 500);
-  
   frameRate(5);
   stroke(0, 75, 145);
   strokeWeight(11);
